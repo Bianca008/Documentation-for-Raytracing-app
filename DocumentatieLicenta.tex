@@ -1,0 +1,99 @@
+\documentclass[12pt, a4paper]{report} %report
+\usepackage{amsfonts, amsmath, amsthm}
+\usepackage{indentfirst}
+\usepackage[utf8x]{inputenc}
+\usepackage{multirow}
+\usepackage[romanian]{babel}
+\usepackage{combelow}
+\usepackage[table]{xcolor}
+\usepackage{graphicx}
+\usepackage{tocloft}
+\usepackage{algorithm, algorithmicx, algpseudocode}
+\usepackage{tocloft}
+\usepackage{caption}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage{hyperref}
+\usepackage{subcaption}
+
+\newcommand*{\utb}{\item[{\includegraphics[width=0.15cm]{imagini/patrat.png}}]}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\captionsetup[table]{name=Tabelul}
+
+\makeatletter
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+	\begin{flushleft}
+		\textbf{\@title}
+		
+		\@author
+		
+		\vspace{10mm}
+		\@date
+	\end{flushleft}\egroup
+}
+\makeatother
+
+\title{\begin{minipage} {0.3\textwidth}
+		{{\includegraphics[width=6cm]{imagini/sigla.png} }}%
+	\end{minipage}
+	\hfill
+	\begin{minipage}{0.3\textwidth}
+		\fontsize{10pt}{6pt}\selectfont
+			Programul de studii:\\
+			Informatica aplicata\\
+	\end{minipage}
+	\vspace*{7\baselineskip}\\
+	\begin{center}
+			\fontsize{22pt}{6pt}\selectfont
+		\bf Lucrare de licen\c{t}\u{a}\\
+		\vspace{5mm}
+		Acustica spa\c{t}iilor interioare folosind metoda Ray-Tracing
+		\vspace*{30\baselineskip}
+	\end{center}
+	}
+
+\author{\fontsize{15pt}{6pt}\selectfont
+	{\bf Autor:} \hspace{5.1cm}Lixandru Andreea-Bianca\\
+	\vspace{3mm}
+	{\bf Mentori:} \hspace{4.6cm}Nil\u{a} Costin\\
+	\vspace{3mm}
+	\hspace{7cm}Gorobievschi Sebastian\\
+	\vspace{3mm}
+	\hspace{7cm}(Siemens Industry Software)\\
+	\vspace{3mm}
+	{\bf Coordonator \c{S}tiin\c{t}ific:} \hspace{1cm} B\u{a}icoianu Alexandra}
+
+\date{\begin{center} Bra\c{s}ov, 2021 \end{center}}
+
+\begin{document}
+	
+	\maketitle	
+	\thispagestyle{empty} %single page disable page number
+	
+	\newpage
+	\tableofcontents
+	\thispagestyle{empty}
+
+	\include{Abstract}	
+	
+	\addcontentsline{toc}{chapter}{Scopul lucr\u arii}
+	\chapter*{Scopul lucr\u arii}
+		\input{ScopulLucrarii}
+		
+	\addcontentsline{toc}{chapter}{Introducere}
+	\chapter*{Introducere}
+		\input{Introducere}
+	\chapter{No\c{t}iuni teoretice necesare}
+		\input{NotiuniNecesare}
+	\chapter{Tehnologii utilizate}
+		\input{TehnlogiiUtilizate}
+	\chapter{Pa\c{s}ii elementari pentru implementarea aplica\c{t}iei}
+		\input{ArhitecturaImplementare}	
+	\chapter{Testarea \c{s}i analizarea rezultatelor}
+		\input{TestareAnalizare}
+	\chapter{Concluzii}
+		\input{Concluzii}
+	\input{references}
+	
+	\newpage
+	
+\end{document}

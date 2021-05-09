@@ -1,0 +1,43 @@
+\babel@toc {romanian}{}
+\contentsline {chapter}{Scopul lucr\u arii}{5}{Doc-Start}%
+\contentsline {chapter}{Introducere}{5}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}No\c {t}iuni teoretice necesare}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Sunetul}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Reflexia sunetului}{10}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Difrac\c {t}ia \c {s}i interferen\c {t}a sunetului}{11}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Func\c {t}ia de r\u {a}spuns la impuls}{13}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Func\c {t}ia de r\u {a}spuns la frecven\c {t}\u {a}}{14}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Absorb\c {t}ia sunetului}{14}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Simularea binaural\u {a}}{15}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Tehnica de trasare a razelor(Ray-Tracing)}{15}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Convolu\c {t}ia sunetului}{18}{section.1.9}%
+\contentsline {section}{\numberline {1.10}Transformata Rapid\u {a} Fourier \c {s}i Inversa Transofrmatei Rapide Fourier}{18}{section.1.10}%
+\contentsline {chapter}{\numberline {2}Tehnologii utilizate}{21}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Limbajul de programare C{\#}}{22}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Limbajul de programare Python \c {s}i biblioteca matplotlib}{22}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Platforma Unity}{23}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Platforma Blender}{23}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Biblioteca NWaves, XCharts \c {s}i StandaloneFileBrowser}{24}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Pa\c {s}ii elementari pentru implementarea aplica\c {t}iei}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Prezentarea aplica\c {t}iei}{26}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Calcul geometric}{27}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Sfera lui Fibonacci}{28}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Propagarea razelor}{29}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Selec\c {t}ia razelor}{30}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Calcul fizic}{31}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Trecerea \^{i}n domeniul frecven\c {t}elor}{31}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Calculul intensit\u {a}\c {t}ilor}{31}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Calculul presiunilor}{32}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Func\c {t}ia de r\u {a}spuns \^{i}n frecven\c {t}\u {a} \c {s}i func\c {t}ia de r\u {a}spuns la impuls}{32}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Calculul distan\c {t}elor}{33}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Calculul timpilor}{34}{subsection.3.3.6}%
+\contentsline {section}{\numberline {3.4}Post-procesarea}{34}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Convolu\c {t}ia sunetului}{34}{subsection.3.4.1}%
+\contentsline {section}{\numberline {3.5}GUI}{35}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Testarea \c {s}i analizarea rezultatelor}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Experimente realizate}{37}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Compara\c {t}ii}{37}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Concluzii}{38}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Concluzii generale}{38}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Concluzii personale}{38}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Dezvolt\u {a}ri ulterioare}{38}{section.5.3}%
