@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  3 JUN 2021 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  3 JUN 2021 16:44
 entering extended mode
 **./DocumentatieLicenta.tex
 (DocumentatieLicenta.tex
@@ -533,7 +533,11 @@ backend-pdftex.def"
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count295
 \l__pdf_internal_box=\box53
-) (DocumentatieLicenta.aux)
+) (DocumentatieLicenta.aux (Abstract.aux)
+
+LaTeX Warning: Label `Fig14' multiply defined.
+
+)
 \openout1 = `DocumentatieLicenta.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
@@ -635,23 +639,948 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 71.
 LaTeX Info: Redefining \pageref on input line 71.
 LaTeX Info: Redefining \nameref on input line 71.
- (DocumentatieLicenta.out) (DocumentatieLicenta.out
-! I can't write on file `DocumentatieLicenta.pdf'.
-Please type another file name for output
-! Emergency stop.
-\Hy@OutlineName ...utline goto name{#2}count#3{#4}
-                                                  
-l.1 \BOOKMARK [0][-]{Doc-Start}{Scopul lucrarii}{}
-                                                  % 1
-*** (job aborted, file error in nonstop mode)
+ (DocumentatieLicenta.out) (DocumentatieLicenta.out)
+\@outlinefile=\write3
+\openout3 = `DocumentatieLicenta.out'.
 
- 
+<imagini/sigla.png, id=175, 492.03825pt x 205.9695pt>
+File: imagini/sigla.png Graphic file (type png)
+<use imagini/sigla.png>
+Package pdftex.def Info: imagini/sigla.png  used on input line 73.
+(pdftex.def)             Requested size: 170.71652pt x 71.46182pt.
+
+Overfull \hbox (34.1419pt too wide) in paragraph at lines 73--73
+[][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
+
+
+("C:\Users\Bianca Lixandru\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
+a.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
+
+
+("C:\Users\Bianca Lixandru\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
+b.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <22> not available
+(Font)              size <20.74> substituted on input line 73.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <22> not available
+(Font)              size <20.74> substituted on input line 73.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 73.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 73.
+
+[1
+
+{C:/Users/Bianca Lixandru/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./ima
+gini/sigla.png>] (DocumentatieLicenta.toc [2])
+\tf@toc=\write4
+\openout4 = `DocumentatieLicenta.toc'.
+
+ [3]
+\openout2 = `Abstract.aux'.
+
+ (Abstract.tex
+("C:\Users\Bianca Lixandru\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-1.de
+f"
+File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+)
+("C:\Users\Bianca Lixandru\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-0.de
+f"
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+("C:\Users\Bianca Lixandru\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-2.de
+f"
+File: uni-2.def 2013/05/13 UCS: Unicode data U+0200..U+02FF
+)) [4
+
+]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 82.
+
+(ScopulLucrarii.tex) [5
+
+
+
+] (Introducere.tex
+Overfull \hbox (0.84698pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/12 Consider^and toate aces-tea, ne pu-tem da seama ca omul a ac
+or-dat per-ma-nent o importa-
+ []
+
+[6
+
+]) [7]
+Capitolul 1.
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 89.
+
+(NotiuniNecesare.tex
+<imagini/propagareaSunetuluiInAer.png, id=266, 853.1875pt x 372.39125pt>
+File: imagini/propagareaSunetuluiInAer.png Graphic file (type png)
+<use imagini/propagareaSunetuluiInAer.png>
+Package pdftex.def Info: imagini/propagareaSunetuluiInAer.png  used on input li
+ne 16.
+(pdftex.def)             Requested size: 455.24411pt x 198.70743pt.
+ [8
+
+ <./imagini/propagareaSunetuluiInAer.png>]
+<imagini/soundWaveGreaterAmplitude.png, id=279, 455.301pt x 190.311pt>
+File: imagini/soundWaveGreaterAmplitude.png Graphic file (type png)
+<use imagini/soundWaveGreaterAmplitude.png>
+Package pdftex.def Info: imagini/soundWaveGreaterAmplitude.png  used on input l
+ine 71.
+(pdftex.def)             Requested size: 284.52756pt x 118.93245pt.
+<imagini/soundWaveCanceledAmplitude.png, id=281, 459.51675pt x 261.97874pt>
+File: imagini/soundWaveCanceledAmplitude.png Graphic file (type png)
+<use imagini/soundWaveCanceledAmplitude.png>
+Package pdftex.def Info: imagini/soundWaveCanceledAmplitude.png  used on input 
+line 80.
+(pdftex.def)             Requested size: 284.52756pt x 162.21727pt.
+ [9] [10 <./imagini/soundWaveGreaterAmplitude.png> <./imagini/soundWaveCanceled
+Amplitude.png>]
+Overfull \hbox (15.92183pt too wide) in paragraph at lines 119--120
+[]\OT1/cmr/m/n/12 Una din-tre ca-rac-te-ris-ti-cile fi-zice im-por-tante le-gat
+e de pro-pa-ga-rea su-ne-tu-lui este impedan[]a
+ []
+
+<imagini/EchoReverberation.jpg, id=303, 681.54625pt x 454.69875pt>
+File: imagini/EchoReverberation.jpg Graphic file (type jpg)
+<use imagini/EchoReverberation.jpg>
+Package pdftex.def Info: imagini/EchoReverberation.jpg  used on input line 133.
+
+(pdftex.def)             Requested size: 455.24411pt x 303.7238pt.
+[11]
+<imagini/reflections.png, id=312, 1751.343pt x 845.559pt>
+File: imagini/reflections.png Graphic file (type png)
+<use imagini/reflections.png>
+Package pdftex.def Info: imagini/reflections.png  used on input line 149.
+(pdftex.def)             Requested size: 318.66948pt x 153.84554pt.
+ [12 <./imagini/EchoReverberation.jpg> <./imagini/reflections.png>]
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 159.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+s'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 159.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 159.
+
+<imagini/difractie.png, id=323, 363.15675pt x 205.9695pt>
+File: imagini/difractie.png Graphic file (type png)
+<use imagini/difractie.png>
+Package pdftex.def Info: imagini/difractie.png  used on input line 172.
+(pdftex.def)             Requested size: 364.19667pt x 206.57555pt.
+[13 <./imagini/difractie.png>]
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 183.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 183.
+
+
+("C:\Users\Bianca Lixandru\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-32.d
+ef"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+<imagini/impulseResponse.png, id=333, 413.1435pt x 363.759pt>
+File: imagini/impulseResponse.png Graphic file (type png)
+<use imagini/impulseResponse.png>
+Package pdftex.def Info: imagini/impulseResponse.png  used on input line 198.
+(pdftex.def)             Requested size: 318.66948pt x 280.5893pt.
+ [14]
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 214.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 214.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 214.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 214.
+
+[15 <./imagini/impulseResponse.png>]
+<imagini/ampli_timp.png, id=345, 620.3175pt x 495.0495pt>
+File: imagini/ampli_timp.png Graphic file (type png)
+<use imagini/ampli_timp.png>
+Package pdftex.def Info: imagini/ampli_timp.png  used on input line 234.
+(pdftex.def)             Requested size: 341.43306pt x 272.48201pt.
+ [16 <./imagini/ampli_timp.png>]
+Overfull \hbox (15.69545pt too wide) in paragraph at lines 247--248
+[]\OT1/cmr/m/n/12 Raspunsul ^n frecven[]a se ca-rac-te-ri-zeaza prin am-plo
+a-rea raspunsului sis-te-mu-lui, masurata,
+ []
+
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 251.
+
+
+Overfull \hbox (6.5872pt too wide) in paragraph at lines 253--254
+[][]\OT1/cmr/m/n/12 In con-tex-tul pro-pagarii su-ne-tu-lui ^n spa[]ii ^nchi
+se vom con-si-dera doua ti-puri de absorb[]ii:
+ []
+
+[17]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 281.
+
+<imagini/binauralExample.png, id=357, 885.3075pt x 498.663pt>
+File: imagini/binauralExample.png Graphic file (type png)
+<use imagini/binauralExample.png>
+Package pdftex.def Info: imagini/binauralExample.png  used on input line 293.
+(pdftex.def)             Requested size: 455.24411pt x 256.43005pt.
+[18] [19 <./imagini/binauralExample.png>]
+<imagini/roomExample.png, id=374, 1080.4365pt x 556.479pt>
+File: imagini/roomExample.png Graphic file (type png)
+<use imagini/roomExample.png>
+Package pdftex.def Info: imagini/roomExample.png  used on input line 321.
+(pdftex.def)             Requested size: 455.24411pt x 234.4753pt.
+
+Overfull \hbox (8.67607pt too wide) in paragraph at lines 329--330
+[][]\OT1/cmr/m/n/12 In mod nor-mal, sin-gu-rii fac-tori dependen[]i de frecven[
+]a care pot fi in-clusi sunt coeficien[]ii
+ []
+
+[20 <./imagini/roomExample.png>]
+<imagini/reflectionExample.png, id=381, 628.14674pt x 395.076pt>
+File: imagini/reflectionExample.png Graphic file (type png)
+<use imagini/reflectionExample.png>
+Package pdftex.def Info: imagini/reflectionExample.png  used on input line 343.
+
+(pdftex.def)             Requested size: 455.24411pt x 286.33534pt.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 353.
+
+[21 <./imagini/reflectionExample.png>]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 372.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+s'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 372.
+
+[22]
+<imagini/fft.png, id=394, 853.1875pt x 720.6925pt>
+File: imagini/fft.png Graphic file (type png)
+<use imagini/fft.png>
+Package pdftex.def Info: imagini/fft.png  used on input line 408.
+(pdftex.def)             Requested size: 426.79134pt x 360.52132pt.
+) [23] [24 <./imagini/fft.png>]
+Capitolul 2.
+(TehnlogiiUtilizate.tex
+<imagini/patrat.png, id=411, 315.42844pt x 314.67563pt>
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 8.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 10.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 12.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 14.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 16.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+
+Overfull \hbox (2.94449pt too wide) in paragraph at lines 16--17
+[]\OT1/cmr/m/it/12 Mentenabilitate: \OT1/cmr/m/n/12 pro-pri-e-tate care eviden[
+]iaza usurin[]a de a mo-di-fica aplica[]ia, anume
+ []
+
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 18.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+[25
+
+ <./imagini/patrat.png>] [26]
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 60.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 61.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 62.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 63.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 64.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 65.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 71.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+ [27] [28]
+Overfull \hbox (7.96219pt too wide) in paragraph at lines 109--110
+\OT1/cmr/m/n/12 care per-mite vi-zu-a-li-zare, in-sta-la-rea, []tergerea []i ac
+-tu-a-li-za-rea pa-che-te-lor uti-li-zate ^n aplica[]ie,
+ []
+
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 114.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 116.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+[29]
+Overfull \hbox (17.88014pt too wide) in paragraph at lines 134--135
+[][]\OT1/cmr/m/n/12 In re-a-li-za-rea gra-fi-ce-lor ce pre-zinta re-zul-ta-tel
+e mo-de-lu-lui acus-tic au fost fo-lo-site urmatoarele
+ []
+
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 137.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 139.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 141.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 143.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 145.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 147.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 149.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+[30]
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 163.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+) [31]
+Capitolul 3.
+
+Package hyperref Warning: Composite letter `\textcedilla+s'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 93.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 93.
+
+(ArhitecturaImplementare.tex
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 3.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 9.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 17.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 21.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+ [32
+
+]
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 33.
+
+[33]
+<imagini/smallRoom.png, id=466, 903.375pt x 852.786pt>
+File: imagini/smallRoom.png Graphic file (type png)
+<use imagini/smallRoom.png>
+Package pdftex.def Info: imagini/smallRoom.png  used on input line 49.
+(pdftex.def)             Requested size: 136.57462pt x 128.92735pt.
+<imagini/bigRoom.png, id=467, 791.3565pt x 910.602pt>
+File: imagini/bigRoom.png Graphic file (type png)
+<use imagini/bigRoom.png>
+Package pdftex.def Info: imagini/bigRoom.png  used on input line 56.
+(pdftex.def)             Requested size: 136.57462pt x 157.14848pt.
+<imagini/sphericRoom.png, id=468, 755.2215pt x 952.7595pt>
+File: imagini/sphericRoom.png Graphic file (type png)
+<use imagini/sphericRoom.png>
+Package pdftex.def Info: imagini/sphericRoom.png  used on input line 63.
+(pdftex.def)             Requested size: 136.57462pt x 172.2889pt.
+<imagini/input.png, id=469, 1147.8885pt x 626.34pt>
+File: imagini/input.png Graphic file (type png)
+<use imagini/input.png>
+Package pdftex.def Info: imagini/input.png  used on input line 79.
+(pdftex.def)             Requested size: 455.24411pt x 248.4003pt.
+<imagini/rayMenu.png, id=471, 181.27725pt x 164.41425pt>
+File: imagini/rayMenu.png Graphic file (type png)
+<use imagini/rayMenu.png>
+Package pdftex.def Info: imagini/rayMenu.png  used on input line 89.
+(pdftex.def)             Requested size: 170.71652pt x 154.84543pt.
+ [34 <./imagini/smallRoom.png> <./imagini/bigRoom.png> <./imagini/sphericRoom.p
+ng>] [35 <./imagini/input.png> <./imagini/rayMenu.png>]
+<imagini/fibo.png, id=489, 308.352pt x 202.356pt>
+File: imagini/fibo.png Graphic file (type png)
+<use imagini/fibo.png>
+Package pdftex.def Info: imagini/fibo.png  used on input line 127.
+(pdftex.def)             Requested size: 418.82375pt x 274.85777pt.
+ [36 <./imagini/fibo.png>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 136.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
+(Font)              using `OT1/cmr/m/it' instead on input line 139.
+
+[37]
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 174.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+
+Overfull \hbox (0.87338pt too wide) in paragraph at lines 174--175
+\OT1/cmr/m/it/12 e-ry-Tri-gge-rIn-te-rac-tion = Qu-e-ry-Tri-gge-rIn-te-rac-tion
+.UseGlobal)\OT1/cmr/m/n/12 , unde \OT1/cmr/m/it/12 ori-gin \OT1/cmr/m/n/12 este
+ punc-
+ []
+
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 182.
+
+[38]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
+(Font)              using `OT1/cmr/m/it' instead on input line 232.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \ALG@b@2@Else@0 
+l.241 			\Else
+              { $ index \gets index + 1$}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+[39]
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 258.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 266.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 266.
+
+[40]
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 311.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 311.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 311.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 311.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+s'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 311.
+
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 311.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 311.
+
+[41]
+<imagini/conv.png, id=541, 1850.112pt x 740.7675pt>
+File: imagini/conv.png Graphic file (type png)
+<use imagini/conv.png>
+Package pdftex.def Info: imagini/conv.png  used on input line 334.
+(pdftex.def)             Requested size: 512.1496pt x 205.06242pt.
+
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 334--335
+ [][] 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
+(Font)              using `OT1/cmr/m/it' instead on input line 346.
+
+[42 <./imagini/conv.png>]
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 364.
+
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 393.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 395.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 397.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 399.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+[43]
+
+Package hyperref Warning: Composite letter `\textcedilla+t'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 408.
+
+
+Overfull \hbox (10.72559pt too wide) in paragraph at lines 410--411
+\OT1/cmr/m/n/12 alcatuit dintr-o lista de va-lori re-ale care sunt trans-for-
+mate ^ntr-un sem-nal dis-cret. Convolu[]ia
+ []
+
+<imagini/convolutiaSunetului.png, id=560, 2385.51225pt x 1233.408pt>
+File: imagini/convolutiaSunetului.png Graphic file (type png)
+<use imagini/convolutiaSunetului.png>
+Package pdftex.def Info: imagini/convolutiaSunetului.png  used on input line 41
+7.
+(pdftex.def)             Requested size: 426.79134pt x 220.66762pt.
+[44 <./imagini/convolutiaSunetului.png>]
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 425.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 427.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+) [45]
+Capitolul 4.
+
+Package hyperref Warning: Composite letter `\textcedilla+s'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textcedilla' on input line 95.
+
+(TestareAnalizare.tex
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textcommabelow' on input line 1.
+
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 8.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 10.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 12.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 19.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 21.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 29.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 31.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 33.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 35.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+[46
+
+]
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 41.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 43.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 50.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 52.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 54.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 60.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 62.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 64.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 66.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 68.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 70.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 72.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+<imagini/roomA.png, id=576, 941.919pt x 879.285pt>
+File: imagini/roomA.png Graphic file (type png)
+<use imagini/roomA.png>
+Package pdftex.def Info: imagini/roomA.png  used on input line 85.
+(pdftex.def)             Requested size: 136.57462pt x 127.48634pt.
+<imagini/roomB.png, id=577, 823.878pt x 840.741pt>
+File: imagini/roomB.png Graphic file (type png)
+<use imagini/roomB.png>
+Package pdftex.def Info: imagini/roomB.png  used on input line 92.
+(pdftex.def)             Requested size: 136.57462pt x 139.35771pt.
+<imagini/roomC.png, id=578, 985.281pt x 1011.78pt>
+File: imagini/roomC.png Graphic file (type png)
+<use imagini/roomC.png>
+Package pdftex.def Info: imagini/roomC.png  used on input line 99.
+(pdftex.def)             Requested size: 136.57462pt x 140.24333pt.
+ [47]
+<imagini/roomA_rays.png, id=588, 903.375pt x 794.97pt>
+File: imagini/roomA_rays.png Graphic file (type png)
+<use imagini/roomA_rays.png>
+Package pdftex.def Info: imagini/roomA_rays.png  used on input line 119.
+(pdftex.def)             Requested size: 136.57462pt x 120.18651pt.
+<imagini/roomB_rays.png, id=589, 825.0825pt x 743.1765pt>
+File: imagini/roomB_rays.png Graphic file (type png)
+<use imagini/roomB_rays.png>
+Package pdftex.def Info: imagini/roomB_rays.png  used on input line 126.
+(pdftex.def)             Requested size: 136.57462pt x 123.01572pt.
+<imagini/roomC_rays.png, id=590, 985.281pt x 919.0335pt>
+File: imagini/roomC_rays.png Graphic file (type png)
+<use imagini/roomC_rays.png>
+Package pdftex.def Info: imagini/roomC_rays.png  used on input line 133.
+(pdftex.def)             Requested size: 136.57462pt x 127.38768pt.
+ [48 <./imagini/roomA.png> <./imagini/roomB.png> <./imagini/roomC.png> <./imagi
+ni/roomA_rays.png> <./imagini/roomB_rays.png> <./imagini/roomC_rays.png>]
+<imagini/m1r22-5000.png, id=602, 405.31425pt x 392.667pt>
+File: imagini/m1r22-5000.png Graphic file (type png)
+<use imagini/m1r22-5000.png>
+Package pdftex.def Info: imagini/m1r22-5000.png  used on input line 153.
+(pdftex.def)             Requested size: 136.57462pt x 132.31268pt.
+<imagini/m6r135-5000.png, id=603, 410.7345pt x 401.0985pt>
+File: imagini/m6r135-5000.png Graphic file (type png)
+<use imagini/m6r135-5000.png>
+Package pdftex.def Info: imagini/m6r135-5000.png  used on input line 160.
+(pdftex.def)             Requested size: 136.57462pt x 133.37274pt.
+<imagini/m6r124-5000.png, id=604, 410.7345pt x 401.0985pt>
+File: imagini/m6r124-5000.png Graphic file (type png)
+<use imagini/m6r124-5000.png>
+Package pdftex.def Info: imagini/m6r124-5000.png  used on input line 167.
+(pdftex.def)             Requested size: 136.57462pt x 133.37274pt.
+
+Underfull \hbox (badness 3601) in paragraph at lines 168--168
+[]\OT1/cmr/m/n/10.95 (c) |Raza love[]te de mai
+ []
+
+<imagini/ecograma.png, id=606, 834.11626pt x 429.40425pt>
+File: imagini/ecograma.png Graphic file (type png)
+<use imagini/ecograma.png>
+Package pdftex.def Info: imagini/ecograma.png  used on input line 181.
+(pdftex.def)             Requested size: 455.24411pt x 234.36465pt.
+[49 <./imagini/m1r22-5000.png> <./imagini/m6r135-5000.png> <./imagini/m6r124-50
+00.png> <./imagini/ecograma.png>]
+<imagini/fr_mag.png, id=615, 834.7185pt x 424.58624pt>
+File: imagini/fr_mag.png Graphic file (type png)
+<use imagini/fr_mag.png>
+Package pdftex.def Info: imagini/fr_mag.png  used on input line 193.
+(pdftex.def)             Requested size: 432.48051pt x 219.98924pt.
+<imagini/fr_faza.png, id=616, 836.52525pt x 422.7795pt>
+File: imagini/fr_faza.png Graphic file (type png)
+<use imagini/fr_faza.png>
+Package pdftex.def Info: imagini/fr_faza.png  used on input line 200.
+(pdftex.def)             Requested size: 432.48051pt x 218.57573pt.
+ [50 <./imagini/fr_mag.png> <./imagini/fr_faza.png>]
+<imagini/ir.png, id=625, 832.3095pt x 422.17725pt>
+File: imagini/ir.png Graphic file (type png)
+<use imagini/ir.png>
+Package pdftex.def Info: imagini/ir.png  used on input line 220.
+(pdftex.def)             Requested size: 455.24411pt x 230.9227pt.
+<imagini/sound.png, id=627, 834.7185pt x 414.95026pt>
+File: imagini/sound.png Graphic file (type png)
+<use imagini/sound.png>
+Package pdftex.def Info: imagini/sound.png  used on input line 229.
+(pdftex.def)             Requested size: 455.24411pt x 226.31119pt.
+ [51 <./imagini/ir.png>]
+<imagini/teste1.png, id=634, 247.52475pt x 311.36325pt>
+File: imagini/teste1.png Graphic file (type png)
+<use imagini/teste1.png>
+Package pdftex.def Info: imagini/teste1.png  used on input line 238.
+(pdftex.def)             Requested size: 170.71652pt x 214.7506pt.
+ [52 <./imagini/sound.png> <./imagini/teste1.png>] [53]
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 271.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 273.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 275.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+<imagini/room_view.jpg, id=647, 664.73344pt x 542.025pt>
+File: imagini/room_view.jpg Graphic file (type jpg)
+<use imagini/room_view.jpg>
+Package pdftex.def Info: imagini/room_view.jpg  used on input line 283.
+(pdftex.def)             Requested size: 218.51521pt x 178.17406pt.
+<imagini/room.png, id=648, 421.575pt x 307.74976pt>
+File: imagini/room.png Graphic file (type png)
+<use imagini/room.png>
+Package pdftex.def Info: imagini/room.png  used on input line 289.
+(pdftex.def)             Requested size: 218.51521pt x 159.51894pt.
+
+Overfull \hbox (4.0041pt too wide) in paragraph at lines 298--299
+[]\OT1/cmr/m/n/12 Vom con-si-dera pen-tru am-bele situa[]ii ca den-si-ta-tea a
+e-ru-lui, $\OML/cmm/m/it/12 []$\OT1/cmr/m/n/12 , are va-loa-rea $1\OML/cmm/m/i
+t/12 :\OT1/cmr/m/n/12 2041[]$,
+ []
+
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 303.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 305.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 307.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+File: imagini/patrat.png Graphic file (type png)
+<use imagini/patrat.png>
+Package pdftex.def Info: imagini/patrat.png  used on input line 309.
+(pdftex.def)             Requested size: 4.26773pt x 4.25417pt.
+[54 <./imagini/room_view.jpg> <./imagini/room.png>]
+<imagini/room_primitive.jpg, id=656, 697.8572pt x 411.78844pt>
+File: imagini/room_primitive.jpg Graphic file (type jpg)
+<use imagini/room_primitive.jpg>
+Package pdftex.def Info: imagini/room_primitive.jpg  used on input line 317.
+(pdftex.def)             Requested size: 273.14923pt x 161.18118pt.
+<imagini/solver_params.jpg, id=657, 262.73157pt x 123.46124pt>
+File: imagini/solver_params.jpg Graphic file (type jpg)
+<use imagini/solver_params.jpg>
+Package pdftex.def Info: imagini/solver_params.jpg  used on input line 323.
+(pdftex.def)             Requested size: 136.57462pt x 64.17947pt.
+<imagini/eco_3.png, id=661, 848.57025pt x 437.83575pt>
+File: imagini/eco_3.png Graphic file (type png)
+<use imagini/eco_3.png>
+Package pdftex.def Info: imagini/eco_3.png  used on input line 335.
+(pdftex.def)             Requested size: 455.24411pt x 234.89119pt.
+ [55 <./imagini/room_primitive.jpg> <./imagini/solver_params.jpg> <./imagini/ec
+o_3.png>]
+<imagini/ir_3.png, id=672, 855.195pt x 435.42674pt>
+File: imagini/ir_3.png Graphic file (type png)
+<use imagini/ir_3.png>
+Package pdftex.def Info: imagini/ir_3.png  used on input line 344.
+(pdftex.def)             Requested size: 455.24411pt x 231.78497pt.
+<imagini/fr_faza_2.png, id=675, 855.195pt x 439.04025pt>
+File: imagini/fr_faza_2.png Graphic file (type png)
+<use imagini/fr_faza_2.png>
+Package pdftex.def Info: imagini/fr_faza_2.png  used on input line 358.
+(pdftex.def)             Requested size: 455.24411pt x 233.7085pt.
+<imagini/fr_mag_2.png, id=676, 828.696pt x 424.58624pt>
+File: imagini/fr_mag_2.png Graphic file (type png)
+<use imagini/fr_mag_2.png>
+Package pdftex.def Info: imagini/fr_mag_2.png  used on input line 365.
+(pdftex.def)             Requested size: 455.24411pt x 233.24457pt.
+) [56 <./imagini/ir_3.png>] [57 <./imagini/fr_faza_2.png> <./imagini/fr_mag_2.p
+ng>]
+Capitolul 5.
+(Concluzii.tex [58
+
+]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 28.
+
+) (references.tex [59]
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+[]\OT1/cmr/m/n/12 http://extremelearning.com.au/how-to-evenly-distribute-points
+-on-a-sphere-more-
+ []
+
+[60
+
+]
+Overfull \hbox (8.34135pt too wide) in paragraph at lines 59--60
+[]\OT1/cmr/m/n/12 https://github.com/monitor1394/unity-ugui-XCharts/blob/master
+/Assets/XCharts/
+ []
+
+) [61] (DocumentatieLicenta.aux (Abstract.aux))
+Package rerunfilecheck Info: File `DocumentatieLicenta.out' has not changed.
+(rerunfilecheck)             Checksum: CDC4D1636CAC4E8EEB8B2CC84DC033AB;3091.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.26pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 10002 strings out of 479799
- 159946 string characters out of 2864934
- 484940 words of memory out of 3000000
- 26821 multiletter control sequences out of 15000+200000
- 535386 words of font info for 30 fonts, out of 3000000 for 9000
+ 12410 strings out of 479799
+ 190852 string characters out of 2864934
+ 519085 words of memory out of 3000000
+ 28918 multiletter control sequences out of 15000+200000
+ 547308 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,1n,72p,342b,76s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 66i,13n,72p,1478b,551s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Bianca Lixandru\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\tcrm1200.pk><C:/Users/Bianca Lixandru/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Bianca Lixandru/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Bianca Lixand
+ru/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
+Users/Bianca Lixandru/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb><C:/Users/Bianca Lixandru/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Bianca Lixandru/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Bianca Lixandru/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users
+/Bianca Lixandru/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><C:/Users/Bianca Lixandru/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><C:/Users/Bianca Lixandru/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Bianca Lixandru/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Bianca L
+ixandru/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+><C:/Users/Bianca Lixandru/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb><C:/Users/Bianca Lixandru/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Bianca Lixandru/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb>
+Output written on DocumentatieLicenta.pdf (61 pages, 15795622 bytes).
+PDF statistics:
+ 799 PDF objects out of 1000 (max. 8388607)
+ 188 named destinations out of 1000 (max. 500000)
+ 570 words of extra memory for PDF output out of 10000 (max. 10000000)
+
