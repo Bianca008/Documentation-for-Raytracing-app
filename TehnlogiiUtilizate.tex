@@ -1,9 +1,7 @@
 \^{I}n zilele noastre calculatorul este folosit \^{i}n multiple arii \c{s}i are ca scop solu\c{t}ionarea sau optimizarea unor probleme. Acesta poate rezolva diferite sarcini, deoarece este programabil, adic\u{a} a fost realizat pentru a putea solu\c{t}iona orice cerere dat\u{a} de un program.
-\bigskip
 
 Un program reprezint\u{a} un set de instruc\c{t}iuni pe care calculatorul le \^{i}ndepline\c{s}te pentru a rezolva o problem\u{a}. Pe l\^{a}ng\u{a} procesul de programare \^{i}n sine, se reg\u{a}sesc \c{s}i alte procese precum testarea, depanarea \c{s}i mentenan\c{t}a codului surs\u{a} care, asigur\u{a} astfel o calitate superioar\u{a} a codului surs\u{a}. Aplica\c{t}ia final\u{a} trebuie s\u{a} \^{i}ndeplineasc\u{a} o serie de propriet\u{a}\c{t}i fundamentale, indiferent de limbajul de programare ales.
-\bigskip
-
+ 
 O parte din aceste propriet\u{a}\c{t}i sunt:
 
 \begin{enumerate}
@@ -24,71 +22,145 @@ O parte din aceste propriet\u{a}\c{t}i sunt:
 
 \section{Limbajul de programare C{\#}}
 
-	Un limbaj de programare este un limbaj formal care cuprinde un set de instruc\c{t}iuni care produc diferite tipuri de ie\c{s}ire. Limbajele de programare sunt utilizate în programare pentru a implementa algoritmi.
-	\bigskip
+	Un limbaj de programare este un limbaj formal care cuprinde un set de instruc\c{t}iuni care produc diferite tipuri de ie\c{s}ire. Limbajele de programare sunt utilizate în programare pentru a implementa algoritmi.	 
 	
-	Majoritatea limbajelor de programare constau \^{i}n instruc\c{t}iuni pentru calculatoare. Exist\u{a} ma\c{s}ini programabile care folosesc un set de instruc\c{t}iuni specifice, mai degrab\u{a} dec\^{a}t limbaje de programare generale.
-	\bigskip
+	Majoritatea limbajelor de programare constau \^{i}n instruc\c{t}iuni pentru calculatoare. Exist\u{a} ma\c{s}ini programabile care folosesc un set de instruc\c{t}iuni specifice, mai degrab\u{a} dec\^{a}t limbaje de programare generale.	 
 	
 	Limbajul de programare C{\#} este un limbaj de programare imperativ, obiect-orientat, asem\u{a}n\u{a}tor sintactic cu Java \c{s}i C++. Acesta a fost creat de Microsoft, ini\c{t}ial \^{i}n cadrul proiectului .NET, la sf\^{a}r\c{s}itul anilor 90, fiind un concurent al limbajului Java. Acestea sunt derivate ale limbajului C$++$. Limbajul C{\#} a fost conceput ca s\u{a} fie simplu, modern,	s\u{a} aib\u{a} un scop general \c{s}i s\u{a} fie orientat pe obiecte.
-	\bigskip
+	 	
+	Acest limbaj con\c{t}ine dou\u{a} categorii de tipuri de date: \textit{tipuri valoare} \c{s}i \textit{tipuri referin\c{t}\u{a}}. Prima categorie con\c{t}ine tipuri simple, precum: char, int, float, dar \c{s}i tipurile enumerare \c{s}i structur\u{a}, fiind alocate pe stiv\u{a} sau inline \^{i}ntr-o structur\u{a}. Cea de-a doua categorie con\c{t}ine tipurile interfa\c{t}\u{a}, delegat \c{s}i tablou. Un aspect important al limbajului de programare C{\#} este faptul c\u{a} toate tipurile de date sunt derivate direct sau indirect din tipul de date System.Object.
 	
-	Acest limbaj con\c{t}ine dou\u{a} categorii de tipuri de date: \textit{tipuri valoare} \c{s}i \textit{tipuri referin\c{t}\u{a}}. Prima categorie con\c{t}ine tipuri simple, precum: char, int, float, dar \c{s}i tipurile enumerare \c{s}i structur\u{a}, fiind alocate pe stiv\u{a} sau inline \^{i}ntr-o structur\u{a}. Cea de-a doua categorie con\c{t}ine tipurile interfa\c{t}\u{a}, delegat \c{s}i tablou. Un aspect important al limbajului de programare C{\#} este faptul c\u{a} toate tipurile de date sunt derivate direct sau indirect din tipul de date System.Object\cite{limbaj}.
-	\bigskip
+	Clasele reprezintă tipuri referință. O clasă poate să moștenească o singură clasă și poate implementa mai multe interfețe. Clasele pot conține constante, câmpuri, metode, proprietăți, evenimente, indexatori, operatori, constructori de instanță, destructori, constructori de clasă, tipuri imbricate. Fiecare membru poate conține un nivel de protecție care controlează gradul de acces la el. Limbajul de programare $C\#$ conține următorii modificatori de acces: public, protected, internal, protected internal și private.
 	
-	Astfel, se pot crea aplica\c{t}ii web prin intermediul ASP.NET, aplica\c{t}ii desktop prin WPF(Windows Presentation Foundation) sau aplica\c{t}ii mobile pe Windows Phone. Common Language Runtime(CLR) gestioneaz\u{a} execu\c{t}ia programelor .NET, fiind un Virtual Machine(VM) care ruleaz\u{a} Intermediate Language(IL) \c{s}i ofer\u{a} multiple servicii, precum gestionarea memoriei, securitate, gestionare de excep\c{t}ii, garbage collector, dar \c{s}i altele. 
-	\bigskip
+	Parametrii metodelor permit transmiterea de valori la apel. În general, transmiterea acestora de face prin valoare, ceea ce înseamnă că la apelul unei metode în stiva gestionată de compilator se copiază valoarea parametrului actual transmis, iar la revenirea din metodă această valoare va fi ștearsă. În cazul variabilelor de tip referință pe stivă se va depune ca valoare adresa de memorie la care este stocat obiectul respectiv, fapt care permite metodei să modifice starea obiectului care se transmite.
+	 	
+	Astfel, se pot crea aplica\c{t}ii web prin intermediul ASP.NET, aplica\c{t}ii desktop prin WPF (Windows Presentation Foundation) sau aplica\c{t}ii mobile pe Windows Phone. Common Language Runtime (CLR) gestioneaz\u{a} execu\c{t}ia programelor .NET, fiind un Virtual Machine (VM) care ruleaz\u{a} Intermediate Language (IL) \c{s}i ofer\u{a} multiple servicii, precum gestionarea memoriei, securitate, gestionare de excep\c{t}ii, garbage collector, dar \c{s}i altele  \cite{limbaj}. 	 
 	
 	\^{I}n cadrul acestui studiu, limbajul de programare a fost folosit pentru a realiza implementarea modelului acustic, iar rezultatele acestuia au fost ilustrate cu ajutorul platformei Unity, dar \c{s}i cu ajutorul limbajului de programare Python.
-	
-\section{Limbajul de programare Python \c{s}i biblioteca matplotlib}
-
-	Python este un limbaj de programare interpretat, obiect orientat, de nivel înalt, cu semantică dinamică. Structurile sale de date încorporate la nivel înalt, combinate cu tastarea dinamică și legarea dinamică, îl fac foarte atractiv pentru dezvoltarea rapidă a aplicațiilor, precum și pentru a fi utilizat ca limbaj de scriptare sau lipici pentru a conecta componentele existente împreună. Sintaxa simplă, ușor de învățat accentuează lizibilitatea și, prin urmare, reduce costul întreținerii programului. Python acceptă module și pachete, ceea ce încurajează modularitatea programului și reutilizarea codului.
-	\bigskip
-	
-	Acest studiu folose\c{s}te biblioteca matplotlib pentru a reprezenta rezultate comparative pentru func\c{t}ia de r\u{a}spuns \^{i}n timp sau sunetul dup\u{a} convolu\c{t}ie pe mai multe microfoane. Aceasta este o bibliotecă ultil\u{a} pentru crearea de vizualizări statice, animate și interactive în Python. Matplotlib poate fi utilizat în scripturi Python, shell-urile Python și IPython, servere de aplicații web și diverse seturi de instrumente grafice de interfață cu utilizatorul\cite{python}.
-	
+		
 \section{Platforma Unity}
 
-	O platform\u{a}(IDE- Integrated Development Environment) este o aplica\c{t}ie software care ofer\u{a} facilit\u{a}\c{t}i programatorilor pentru dezvoltarea de soft. O platform\u{a} este alc\u{a}tuit\u{a} din cel pu\c{t}in un editor de cod surs\u{a}, instrumente de automatizare a construc\c{t}iilor \c{s}i un depanator.
-	\bigskip
-	
-	Un singur program \^{i}n care se realizeaz\u{a} dezvoltarea unui soft reprezint\u{a} o platform\u{a}(IDE). Aceast\u{a} platform\u{a} ofer\u{a} multe caracteristici pentru autorizare, modificare, compilare, implementare \c{s}i depanare a produsului soft. Unele platforme sunt specializate pe un limbaj de programare specific, oferind un set de caracteristici care se potrivesc cu paradigma de programare a acelui limbaj. Cu toate acestea, exist\u{a} multe IDE-uri  care suport\u{a} mai multe limbaje de programare.
-	\bigskip
+	O platform\u{a} (IDE- Integrated Development Environment) este o aplica\c{t}ie software care ofer\u{a} facilit\u{a}\c{t}i programatorilor pentru dezvoltarea de soft. O platform\u{a} este alc\u{a}tuit\u{a} din cel pu\c{t}in un editor de cod surs\u{a}, instrumente de automatizare a construc\c{t}iilor \c{s}i un depanator.
+	 	
+	Un singur program \^{i}n care se realizeaz\u{a} dezvoltarea unui soft reprezint\u{a} o platform\u{a} (IDE). Aceast\u{a} platform\u{a} ofer\u{a} multe caracteristici pentru autorizare, modificare, compilare, implementare \c{s}i depanare a produsului soft. Unele platforme sunt specializate pe un limbaj de programare specific, oferind un set de caracteristici care se potrivesc cu paradigma de programare a acelui limbaj. Cu toate acestea, exist\u{a} multe IDE-uri  care suport\u{a} mai multe limbaje de programare.	 
 	
 	Platforma Unity este folosit\u{a} \^{i}n general pentru a crea jocuri \c{s}i poate rula pe mai multe platforme. A fost dezvoltat de Unity Technologies \c{s}i lansat \^{i}n 2005 la Apple Inc's Worldwide Developers Conference ca fiind un game engine exclusiv pentru macOS. 
-	\bigskip
-	
+	 	
 	Unity este principala platform\u{a} mondial\u{a} pentru crearea \c{s}i operarea de con\c{t}inut 3D interactiv, \^{i}n timp real, oferind instrumente pentru a crea jocuri \c{s}i pentru a le publica pe o gam\u{a} larg\u{a} de dispozitive. Platforma de baz\u{a} Unity permite echipelor creative s\u{a} fie mai productive \^{i}mpreun\u{a}.
-	\bigskip
 	
-	De-a lungul anilor, aceast\u{a} platform\u{a} s-a dezvoltat reu\c{s}ind ast\u{a}zi s\u{a} sus\c{t}in\u{a} peste 25 de platforme. Platforma poate fi utilizat\u{a} pentru a crea jocuri 2D \c{s}i 3D, realitate virtual\u{a} \c{s}i realitate augmentat\u{a}. Unity este utilizat nu numai pentru jocuri video, c\^{a}t \c{s}i \^{i}n domeniul filmelor, arhitecturii, ingineriei si construc\c{t}iilor\cite{unity}.
+	Platforma este capabilă să ofere multe dintre cele mai importante funcții care permit unui joc să funcționeze. Prin acest fapt ne referim la fizică, randare 3D, detectarea coliziunilor. Toate acestea promovează utilizarea funcțiilor deja existente, astfel încât dezvoltatorul să nu fie nevoit să înceapă crearea unui proiect de la zero, reinventând roata, ci folosind deja lucrurile predefinite.
+	
+	Aceasta este și mai puternică, întrucât conține o secțiune intitulată \textit{,,Asset Store''}, un loc care permite dezvoltatorilor să își publice creațiile pentru a putea fi folosite și de alți utilizatori ai platformei.
+	
+	De-a lungul anilor, aceast\u{a} platform\u{a} s-a dezvoltat reu\c{s}ind ast\u{a}zi s\u{a} sus\c{t}in\u{a} peste 25 de platforme. Platforma poate fi utilizat\u{a} pentru a crea jocuri 2D \c{s}i 3D, realitate virtual\u{a} \c{s}i realitate augmentat\u{a}. Unity este utilizat nu numai pentru jocuri video, c\^{a}t \c{s}i \^{i}n domeniul filmelor, arhitecturii, ingineriei si construc\c{t}iilor \cite{unity}.
+	
+	Platforma a fost folosită pentru a:
+	
+	\begin{itemize}
+		\utb modela încaperi de diferite forme și dimensiuni
+		\utb modela microfoanele și sursa audio
+		\utb vizualiza individual o rază 
+		\utb vizualiza toate razele
+		\utb difuzarea soluțiilor obținute de solver prin intermediul fișierelor \textit{.wav}
+		\utb realizarea graficelor ce prezintă rezultatele obținute pe microfoane
+	\end{itemize}
+
+	Mai mult de atât, în acest studiu am folosit metoda \textit{Raycast} din clasa \textit{Physics} pentru a putea detecta coliziunile unei raze cu suprafețele din încăpere. Această metodă are următoarea semnătură:
+	
+	\begin{itemize}
+		\utb \textit{public static bool Raycast(Vector3 origin, Vector3 direction, float maxDistance = Mathf.Infinity, int layerMask = DefaultRaycastLayers, QueryTriggerInteraction queryTriggerInteraction = QueryTriggerInteraction.UseGlobal);}
+	\end{itemize}
+
+	\noindent unde \textit{origin} reprezintă poziția de start a razei în coordonatele lumii, \textit{direction} indică direcția razei, \textit{maxDistance} este distanța maximă permisă pentru detecția coliziunilor, \textit{layerMask} este folosit pentru a ignora selectiv anumite suprafețe de ciocnire, iar \textit{querryTriggerInteraction} sepcifică dacă această interogare trebuie să declanșeze o acțiune.
+	
+	Cu ajutorul platformei, au fost integrate în aplicație bibliotecile: \textit{NWaves}, cu ajutorul căreia se realizează prelucrarea sunetului, \textit{XCharts}, utilizată în realizarea unor grafice menite să prezinte rezultatele obținute de modelul acustic, și \textit{StandaloneFileBrowser}, folosită pentru a încărca fișiere din calculatorul utilizatorului.
 	
 \section{Platforma Blender}
 	
-	Blender este o aplica\c{t}ie software de grafic\u{a} 3D folosit\u{a} pentru crearea de informa\c{t}ii, efecte vizuale, art\u{a}, modele de tip\u{a}rire 3D, grafic\u{a} de mi\c{s}care, aplica\c{t}ii 3D interactive \c{s}i jocuri pe calculator. Aceasta este cross-platform \c{s}i permite map\u{a}ri UV, folosirea materialelor, a shaderelor, a mesh-urilor f\u{a}r\u{a} probleme.
-	\bigskip
+	Blender este o aplica\c{t}ie software de grafic\u{a} 3D folosit\u{a} pentru crearea de informa\c{t}ii, efecte vizuale, art\u{a}, modele de tip\u{a}rire 3D, grafic\u{a} de mi\c{s}care, aplica\c{t}ii 3D interactive \c{s}i jocuri pe calculator. Aceasta este cross-platform \c{s}i permite map\u{a}ri UV, folosirea materialelor, a shaderelor, a mesh-urilor f\u{a}r\u{a} probleme. Mai mult de atât, este o suită de creație 3D gratuită și open-source, care suportă întreagul pipeline 3D.
 	
-	\^{I}n acest studiu, programul a fost folosit pentru a putea realiza \^{i}nc\u{a}perea sferic\u{a} din aplica\c{t}ie, \^{i}ntruc\^{a}t era nevoie de un soft ce trebuia s\u{a} permit\u{a} crearea unei fi\c{s}ier de tipul ,,obj'' care s\u{a} con\c{t}in\u{a} o sfer\u{a} cu normalele inversate pentru a putea plasa alte elemente \^{i}n\u{a}untrul acesteia.
+	Platforma a fost dezvoltată de Fundația Blender, o organizație nonprofit înființată în 2002. În anul 2007, a fost creat Institutul Blender ce găzduiește în prezent fundația, având ca scop dezvoltarea continuă a proiectelor creative. Chiar dacă este gratuit, Blender este accesibil și valoros pentru o gamă largă de utilizatori, pornind de la începători și până la profesioniști. Întrucât este un soft actualizat continuu de către utilizatorii avansați, poate fi folosit chiar și de către amatori. Astfel, rămâne o platformă în care totul este despre accesul oamenilor pentru ca aceștia să poată crea orice își doresc.
 	
-\section{Biblioteca NWaves, XCharts \c{s}i StandaloneFileBrowser}
+	Blender este o platformă surprinzătoare care acceptă mai mult decât folosirea unor instrumente primare de modelare 3D. Aceasta conține  \textit{Grease Pencil} care îți permite să pictezi într-un spațiu 3D folosind pensule 2D, oferind astfel posibilitatea de a crea animații 2D într-un spațiu hibrid. De asemenea, sunt posibile simulările fizice.
+	
+	Interfața este una intuitivă, ușor de folosit, care permite modificarea și schimbarea ferestrelor în mai multe moduri pentru a crea mai mult spațiu de lucru pentru creator.
+	
+	\^{I}n acest studiu, programul a fost folosit pentru a putea realiza \^{i}nc\u{a}perea sferic\u{a} din aplica\c{t}ie, \^{i}ntruc\^{a}t era nevoie de un soft ce trebuia s\u{a} permit\u{a} crearea unei fi\c{s}ier de tipul \textit{,,.obj''} care s\u{a} con\c{t}in\u{a} o sfer\u{a} cu normalele inversate pentru a putea plasa alte elemente \^{i}n\u{a}untrul acesteia.
+	
+	Ca să putem realiza o sferă cu normalele inversate este nevoie ca pentru început să creăm un obiect de tipul sferă. Mai departe, ne folosim de tab-ul din meniu denumit \textit{,,Mesh''} al soft-ului, unde regăsim secțiunea \textit{,,Normals''} pentru care avem opțiunea \textit{,,Flip normals''} care ne ajută să ajungem la efectul dorit. Pentru a putea valida că ceea ce am făcut este corect există o opțiune în tab-ul \textit{,,Overlays''} numită \textit{,,Display face normals as lines''} care ne permite să vizualizăm dacă normalele au fost inversate.
+	
+	După ce am urmat acești pași singurul lucru care mai rămâne de făcut este să salvăm obiectul nostru în format \textit{,,.obj''} ca să îl importăm în aplicația noastră cu ajutorul platformei Unity pentru a realiza încăperea sferică.
+	
+\section{Biblioteca matplotlib}
 
-	Biblioteca NWaves a fost ini\c{t}ial destinat\u{a} cercet\u{a}rii, vizualiz\u{a}rii \c{s}i pred\u{a}rii elementelor de baz\u{a} ale program\u{a}rii DSP(Digital Signal Processing) \c{s}i a sunetului. To\c{t}i algoritmii sunt implementa\c{t}i \^{i}n limbajul de programare C{\#}, c\^{a}t mai simplu posibil \c{s}i au fost proiecta\c{t}i \^{i}n principal pentru procesarea offline(\^{i}n prezent exist\u{a} \c{s}i multe metode online)\cite{nwaves}.
-	\bigskip
+	Python este un limbaj de programare interpretat, obiect orientat, de nivel înalt, cu semantică dinamică. Structurile sale de date încorporate la nivel înalt, combinate cu tastarea dinamică și legarea dinamică, îl fac foarte atractiv pentru dezvoltarea rapidă a aplicațiilor, precum și pentru a fi utilizat ca limbaj de scriptare sau lipici pentru a conecta componentele existente împreună. Sintaxa simplă, ușor de învățat accentuează lizibilitatea și, prin urmare, reduce costul întreținerii programului. Python acceptă module și pachete, ceea ce încurajează modularitatea programului și reutilizarea codului.
 	
-	Aceast\u{a} bibliotec\u{a} este una open source destinat\u{a} proces\u{a}rii digitale a semnalelor audio, \^{i}nglob\^{a}nd multiple func\c{t}ionalit\u{a}\c{t}i pentru acest domeniu. \^{I}n cadrul studiului, biblioteca a fost folosit\u{a} pentru citirea/creearea fi\c{s}ierelor cu extensia \textit{,,wav"}, dar \c{s}i pentru convolu\c{t}ia sunetelor.
-	\bigskip
+	Studiul folose\c{s}te biblioteca matplotlib pentru a reprezenta rezultate comparative pentru func\c{t}ia de r\u{a}spuns \^{i}n timp, funcția de răspuns în frecvență sau sunetul dup\u{a} convolu\c{t}ie pe mai multe microfoane. Aceasta este o bibliotecă util\u{a} pentru crearea de vizualizări statice, animate și interactive în Python. Matplotlib poate fi utilizat în scripturi Python, shell-urile Python și IPython, servere de aplicații web și diverse seturi de instrumente grafice de interfață cu utilizatorul \cite{python}.
+	
+	Această bibliotecă a fost folosită independent de platforma Unity, strict pentru a putea realiza câteva grafice ce ilustrează rezultatele obțiunte de modelul acustic propus în această lucrare.
+	
+	Pentru a putea folosi limbajul Python și biblioteca matplotlib au fost folosite Ananconda și Jupyter Notebook. În realizarea graficelor au fost folosite metode de bază precum: \textit{plot}, \textit{legend}, \textit{figure}, \textit{title}, \textit{xlabel}, \textit{ylabel} și \textit{show}, dar și noțiuni precum: \textit{variabilă}, \textit{constantă}, \textit{listă}.
 
-	XCharts este o bibliotec\u{a} puternic\u{a}, u\c{s}or de utilizat \c{s}i de configurat pentru vizualizarea datelor \^{i}n contextul platformei Unity. Acest proiect a fost dezvoltat sub Unity 2017 \c{s}i .NET 3.5\cite{xcharts}.
-	\bigskip
+\section{Biblioteca NWaves}
+	Biblioteca NWaves a fost ini\c{t}ial destinat\u{a} cercet\u{a}rii, vizualiz\u{a}rii \c{s}i pred\u{a}rii elementelor de baz\u{a} ale program\u{a}rii DSP (Digital Signal Processing) \c{s}i a sunetului. To\c{t}i algoritmii sunt implementa\c{t}i \^{i}n limbajul de programare C{\#}, c\^{a}t mai simplu posibil \c{s}i au fost proiecta\c{t}i \^{i}n principal pentru procesarea offline (\^{i}n prezent exist\u{a} \c{s}i multe metode online) \cite{nwaves}.
 	
-	Diferite componente \c{s}i date pot fi  combinate \^{i}n diferite tipuri de diagrame. O component\u{a} XCharts este \^{i}mp\u{a}r\c{t}it\u{a} \^{i}ntr-o component\u{a} principal\u{a} \c{s}i \^{i}n una sau mai multe componente secundare, unde cea principal\u{a} con\c{t}ine toate componentele secundare. 
-	\bigskip
+	Aceast\u{a} bibliotec\u{a} este una open source destinat\u{a} proces\u{a}rii digitale a semnalelor audio, \^{i}nglob\^{a}nd multiple func\c{t}ionalit\u{a}\c{t}i pentru acest domeniu. \^{I}n cadrul studiului, biblioteca a fost folosit\u{a} pentru citirea/stocarea fi\c{s}ierelor cu extensia \textit{,,wav"}, dar \c{s}i pentru convolu\c{t}ia sunetelor.
+	
+	Pentru a putea folosi această bibliotecă Unity propune fereastra \textit{Package Manager}, care permite vizualizare, instalarea, ștergerea și actualizarea pachetelor utilizate în aplicație, ce are opțiunea \textit{Add}, care permite adăugarea bibliotecii folosind un link de Git prin \textit{Add package from Git URL}. 
+	
+	În realizarea acestei aplicații au foste folosite următoarele metode:
+	
+	\begin{itemize}
+		\utb \textit{DiscreteSignal Operation.Convolve (DiscreteSignal signal, DiscreteSignal kernel);}
+	
+		\utb \textit{void RealFft.Inverse (float[] re, float[] im, float[] output);}
+	
+	\end{itemize}
+	
+	Cu ajutorul acestei biblioteci am realizat convoluția sunetului pe fiecare microfon, am utilizat clasa \textit{DiscreteSignal} pentru a stoca și prelucra sunetul difuzat în încăpere și mai mult de atât, am realizat transformările din domeniul timpului în domeniul frecvențelor, dar și invers.
+	
+	
+\section{Biblioteca XCharts}
+	XCharts este o bibliotec\u{a} puternic\u{a}, u\c{s}or de utilizat \c{s}i de configurat pentru vizualizarea datelor \^{i}n contextul platformei Unity. Acest proiect a fost dezvoltat sub Unity 2017 \c{s}i .NET 3.5 \cite{xcharts}.
+	
+	Diferite componente \c{s}i date pot fi  combinate \^{i}n diferite tipuri de diagrame. O component\u{a} XCharts este \^{i}mp\u{a}r\c{t}it\u{a} \^{i}ntr-o component\u{a} principal\u{a} \c{s}i \^{i}n una sau mai multe componente secundare, unde cea principal\u{a} con\c{t}ine toate componentele secundare. 	 
 	
 	Biblioteca a fost folosit\u{a} \^{i}n contextul acestei lucr\u{a}ri pentru a ilustra date statistice privind sunetul, precum: func\c{t}ia de r\u{a}spuns la impuls \^{i}n frecven\c{t}\u{a} \c{s}i \^{i}n timp, magnitudinea, faza, timpul, dar \c{s}i altele.
-	\bigskip
-
-	Biblioteca StandaloneFileBrowser este una cross-platform ce permite lucrul cu fi\c{s}iere pentru platforma Unity\cite{standalone}. Aceasta a fost folosit\u{a} \^{i}n realizarea aplica\c{t}iei pentru a permite deschiderea \c{s}i utilizarea fi\c{s}ierelor \textit{,,wav"} pentru a putea crea input-ul pentru modelul acustic.
 	
-
+	Pentru a putea integra această bibliotecă în cadrul aplicației Unity procesul este un pic mai complicat decât pentru biblioteca NWaves. Astfel, pentru început trebuie să descărcăm pachetul ce conține biblioteca. Acesta va cuprinde două pachete Unity: \textit{XCharts} și \textit{XChartsDemo}, pe care va trebui să le importăm în aplicația Unity. Acest lucru este posibil prin intermediul ferestrei \textit{Package Manager}, în cazul în care se utilizează o versiune mai mare decât Unity 2018.3. În cazul în care se folosește o versiune mai mică de Unity, importarea se poate face în mod clasic prin copierea fișierelor.
 	
+	Pasul următor pentru a continua configurarea bibliotecii presupune adăugarea textului: \textit{$"com.monitor1394.xcharts": "https://github.com/monitor1394/unity-ugui-XCharts.git\#2.0-upm"$,} în fișierul \textit{manifest.json} din directorul \textit{Packages}. După acest pas, trebuie să ne întoarcem pe platforma Unity și să așteptăm aproximativ 3-5 min pentru ca biblioteca să se descarce și să se compileze. După această așteptare, biblioteca XCharts este gata să fie folosită și, mai mult de atât, putem observa că aceasta este inclusă în meniul Unity la secțiunea \textit{Component}, unde vom găsi XCharts.
+	
+	În realizarea graficelor ce prezintă rezultatele modelului acustic au fost folosite următoarele elemente:
+	
+	\begin{itemize}
+		\utb BarChart - un grafic care prezintă date categorice cu bare dreptunghiulare cu înălțimi și lungimi proporționale cu valorile pe care le reprezintă
+		
+		\utb LineChart -  un grafic care afișează informații ca o serie de puncte conectate prin segmente de linie dreaptă
+		
+		\utb Axis -  o linie dreaptă care indică unitatea de mășură în care este măsurată o cantitate
+		
+		\utb Grid - un element din grafic care creează $nx\cdot ny$ forme rectangulare într-un grafic
+		
+		\utb Legend - descrie elementele ce sunt ilustrate în grafic
+		
+		\utb Series - listă de elemente care își determină singure tipul
+		
+		\utb Title - este un element grafic ce descrie numele graficul ilustrat
+	\end{itemize}
+
+	\noindent dar și altele.
+	
+\section{Biblioteca StandaloneFileBrowser}
+	 
+	Biblioteca StandaloneFileBrowser este una cross-platform ce permite lucrul cu fi\c{s}iere pentru platforma Unity \cite{standalone}. Aceasta a fost folosit\u{a} \^{i}n realizarea aplica\c{t}iei pentru a permite deschiderea \c{s}i utilizarea fi\c{s}ierelor cu extensia \textit{,,.wav''} pentru a putea crea input-ul pentru modelul acustic.
+	
+	Aceasta este un wrapper peste fereastra de dialog din Windows cu care suntem obișnuiți, iar câteva dintre avantajele bibliotecii sunt: se poate folosi atât în editor, cât și la runtime, oferă posibilitatea de a salva și filtra după extensie fișiere, permite selecția multiplă a elementelor, poate fi folosită pe Windows, Mac și Linux.
+	
+	StandaloneFileBrowser permite încărcarea fișierelor cu extensia \textit{,,.wav''} pentru a putea converti sunetul în DiscreteSignal, ca mai departe să fie incluse în modelul acustic. Pentru a putea încărca un fișier în aplicația Unity am folosit metoda:
+	
+	\begin{itemize}
+		\utb \textit{  public static string[] OpenFilePanel(string title, string directory, ExtensionFilter[] extensions, bool multiselect);} unde \textit{title} este titlul ferestrei, \textit{directory} este directorul din care vom vizualiza fișierele, \textit{ExtensionFilter} este o clasă ce permite stocarea extensiilor, iar \textit{muliselect} este un parametru de tip bool care ne indică dacă vom putea sau nu să selectăm mai multe fișiere
+	\end{itemize}
+	
+	După ce a fost încărcat fișierul audio folosind biblioteca StandaloneFileBrowser sunetul va fi convertit intr-un DiscreteSignal cu ajutorul bibliotecii NWaves, care va transmite mai departe informațiile. Astfel, StandaloneFileBrowser devine doar un intermediar ce permite încărcarea unui fișier în aplicație.

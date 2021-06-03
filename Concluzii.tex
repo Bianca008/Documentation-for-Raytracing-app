@@ -1,13 +1,37 @@
 \section{Concluzii generale}	
-
-	aici as vrea sa prezint cam care sunt concluziile legate de aplicatia mea, ce a mers bine, ce nu e asa bine(cu gandul ca acestea se pot imbunatatii)
 	
-	sa pun putin accentul pe idee ca aplicatia nu este una finalizata si ca poate fi o idee mult imbunatita(ca nu se limiteaza doar la prezent, ca este o lucrare orientata spre viitor)
-
+	Acest studiu propune un model acustic care vine în sprijinul inginerilor acustici pentru a-i ajuta să poziționeze sursele audio și microfoanele atunci când creează încăperi precum hale, amfiteatre, aeroporturi în parametrii acustici normali. 
+	
+	Modelul acustic propus de noi este unul eficient, care poate fi adaptat și utilizat în contextul oricărui spațiu interior pentru a ajuta la construirea unei camere cu parametrii optimi pentru a crea confortul de care oamenii au nevoie.
+	
+	Această lucrare necesită ca etapele să fie efectuate secvențial, deoarece ieșirea unui pas este intrarea pasului următor. Calculul geometric este deosebit de important deoarece dictează adesea eficiența algoritmului. Conform complexităților de timp prezentate anterior, putem observa că calculul geometric și calculul fizic au complexitate de timp liniară, iar post-procesarea datelor se realizează în $n\log_2 n$ operații.
+	
+	Modelul acustic este unul standalone, deci permite decuplarea sa de interfața realizată cu ajutorul platformei Unity și folosirea acestuia în funcție de dorințele și nevoile utilizatorului. Interfața aplicației permite vizualizarea tuturor razelor de pe microfoane, dar și vizualizarea unei singure raze.
+	
+	În cadrul aplicației au fost realizate teste pentru a verifica corectitudinea calculelor și anumite situații particulare folosind unit teste și, mai mult de atât, a fost și validată folosind Simcenter 3D, o platformă de simulare complet integrată pentru modelarea, simularea și analizarea produselor și sistemelor complexe de inginerie.
+	
+	Un aspect foarte important este faptul că acest model acustic consideră absorbția sunetului ținând cont de suprafețele pe care le întâlnește o rază pe traiectul ei, fapt care aduce soluția propusă mai aproape de realitate.
+	
+	Aplicația realizată nu se limitează doar la prezent, ci este o aplicație pentru care se pot face multiple îmbunătățiri prin realizarea unei simulări binaurale sau adăugarea fenomenului de difracție, dar și altele, fiind astfel orientată spre viitor oferind posibilitatea de dezvoltare continuă.
+	
+	
 \section{Concluzii personale}
-
-	aici as vrea putin sa spun din prisma mea cum este aplicatia si cam ce am invatat eu din toate acestea
-
+	
+	Mi-am dorit ca prin această lucrare să modelez o soluție pentru o problemă inspirată din realitate, care să fie de actualitate și să necesite un proces de învățare și dezvoltare continuu. Am reușit să dobândesc noțiuni din domeniul ingineriei acustice pornind de la ce este sunetul până la a înțelege cum se propagă sunetul în lumea reală și ce fenomene produce acesta, pentru a putea modela aceste comportamente fizice în contextul aplicației mele.
+	
+	A fost cu adevărat o lucrare provocatoare care m-a determinat să învăț atât noțiuni teoretice, cât și cum se folosește platforma Unity și cum pot integra alte biblioteci într-o aplicație Unity, să ies din sfera mea de confort și să dezvolt lucruri cu adevărat impresionante din punct de vedere programatic și ingineresc.
+	
+	Evident, au existat momente în care am întâmpinat greutăți în dezvoltarea acesteia, printre aceste momente se numără: pasul în care am trecut de la realizarea calculelor în domeniul timpului la realizarea calculelor în domeniul frecvențelor și calculul intensităților. Poate cel mai dificil pas a fost realizarea GUI-ului, pentru că nu cunoșteam platforma Unity suficient de bine pentru a ști cum se realizează meniurile și a fost nevoie de mult timp pentru a învăța cum pot face acest lucru astfel încât acesta să fie redimensionabil.
+	
+	Este o aplicație pe care îmi doresc să o dezvolt și în continuare pentru că aceasta este situată într-un domeniu care permite acest lucru prin adăugarea unor elemente precum difracția, simularea binaurală și chiar îmbunătățirea acesteia din punct de vedere al timpului de execuție prin schimbarea modului de calcul geometric sau mutarea calcului pe GPU. Toate aceste elemente aducând modelul acustic mai aproape de realitate.
+	
 \section{Dezvolt\u{a}ri ulterioare}
 
-	aici as vrea sa prezint acele aspecte ce pot fi imbunatatie: ca se poate muta calculul pe gpu, se pot realiza alte moduri de trasare al razelor...
+	Ca orice model acustic, acesta poate include îmbunătățiri precum abordarea altor tehnici de calcul geometric. O posibilă soluție ar putea fi începerea trasării razelor pornind de la microfoane la sursa audio. O altă soluție ar putea fi păstrarea distribuției razelor cu modificarea că atunci când o rază întâlnește o suprafață se sparge în mai multe raze. Mai mult decât îmbunătățirea modului de simulare a geometriei camerei, se poate realiza o  îmbunătățire generală din punct de vedere al timpului computațional al aplicației, astfel încât toate calculele ar putea fi mutate pe GPU.
+	
+	Pentru a îmbunătății aplicația se poate considera introducerea fenomenului de difracție în aplicație, care reprezint\u{a} schimbarea local\u{a} \^{i}n direc\c{t}ia propag\u{a}rii undelor sonore trec\^{a}nd de marginea unui obstacol.
+	
+	Se poate lua în considerare și simularea binaurală care reprezint\u{a} o metod\u{a} de a realiza semnale binaurale la ambele urechi ale receptorului \^{i}n spa\c{t}ii inexistente prin intermediul unui model. Pentru fiecare microfon se vor considera două puncte în locul unuia ca și cum ar fi urechile omului.
+	
+	O altă abordare posibilă ar fi să ținem cont si de absorbția aerului, nu doar de absorbția suprafețelor din încăperi, fapt care ar putea îmbunătății rezultatele pentru încăperile de dimensiuni mari sau atunci când vorbim despre frecvențe înalte. 
+	
