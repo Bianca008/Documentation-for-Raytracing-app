@@ -5,7 +5,7 @@
 \BOOKMARK [1][-]{section.1.2}{Reflexia sunetului}{chapter.1}% 5
 \BOOKMARK [1][-]{section.1.3}{Difractia si interferenta sunetului}{chapter.1}% 6
 \BOOKMARK [1][-]{section.1.4}{Functia de raspuns la impuls}{chapter.1}% 7
-\BOOKMARK [1][-]{section.1.5}{Functia de raspuns la frecventa}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.5}{Functia de raspuns \356n frecventa}{chapter.1}% 8
 \BOOKMARK [1][-]{section.1.6}{Absorbtia sunetului}{chapter.1}% 9
 \BOOKMARK [1][-]{section.1.7}{Simularea binaurala}{chapter.1}% 10
 \BOOKMARK [1][-]{section.1.8}{Tehnica de trasare a razelor \(Ray-Tracing\)}{chapter.1}% 11
@@ -19,7 +19,7 @@
 \BOOKMARK [1][-]{section.2.5}{Biblioteca NWaves}{chapter.2}% 19
 \BOOKMARK [1][-]{section.2.6}{Biblioteca XCharts}{chapter.2}% 20
 \BOOKMARK [1][-]{section.2.7}{Biblioteca StandaloneFileBrowser}{chapter.2}% 21
-\BOOKMARK [0][-]{chapter.3}{Pasii elementari pentru implementarea aplicatiei}{}% 22
+\BOOKMARK [0][-]{chapter.3}{Etapele elementare pentru implementarea aplicatiei}{}% 22
 \BOOKMARK [1][-]{section.3.1}{Ghid de utilizare al aplicatiei}{chapter.3}% 23
 \BOOKMARK [1][-]{section.3.2}{Calcul geometric}{chapter.3}% 24
 \BOOKMARK [2][-]{subsection.3.2.1}{Sfera lui Fibonacci}{section.3.2}% 25

@@ -1,4 +1,4 @@
-Acest capitol va descrie detaliat algoritmul de modelare acustic\u{a} \^{i}n spa\c{t}ii interioare folosind metoda Ray-Tracing \c{s}i va con\c{t}ine pa\c{s}ii elementari pentru implementarea acestuia. \c{T}in\^{a}nd cont de toate acestea, aplica\c{t}ia poate fi \^{i}mp\u{a}r\c{t}it\u{a} \^{i}n patru etape:
+Acest capitol va descrie detaliat algoritmul de modelare acustic\u{a} \^{i}n spa\c{t}ii interioare folosind metoda Ray-Tracing \c{s}i va con\c{t}ine etapele elementare pentru implementarea acestuia. \c{T}in\^{a}nd cont de toate acestea, aplica\c{t}ia poate fi \^{i}mp\u{a}r\c{t}it\u{a} \^{i}n patru etape:
 \begin{enumerate}
 	\utb Calcul geometric
 	\begin{itemize}
@@ -143,7 +143,8 @@ Acum c\u{a} am considerat toate aceste etape mai rămâne doar s\u{a} putem inte
 		\State{$\theta \gets \sin\left(-1 + \dfrac{2*i}{N + 1}\right)$}
 		\State{$\phi \gets \vartheta * i$}
 		\State{$dir \gets $ transform\u{a}m (1, $\theta$ \c{s}i $\phi$) \^{i}n coordonate carteziene }
-		\State{Scrie dir, direc\c{t}ia pe care se va deplasa viitoarea raz\u{a}}
+		
+		\Return{\textit{dir}, direc\c{t}ia pe care se va deplasa viitoarea raz\u{a}}
 		\EndFor
 		\EndProcedure
 	\end{algorithmic}
