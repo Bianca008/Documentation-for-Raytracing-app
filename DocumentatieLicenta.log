@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  8 JUN 2021 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  12 JUN 2021 16:58
 entering extended mode
 **./DocumentatieLicenta.tex
 (DocumentatieLicenta.tex
@@ -687,7 +687,11 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
 (Font)              size <14.4> substituted on input line 73.
 
-[1
+
+("C:\Users\Bianca Lixandru\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-1.de
+f"
+File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+) [1
 
 {C:/Users/Bianca Lixandru/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./ima
 gini/sigla.png>] (DocumentatieLicenta.toc [2])
@@ -698,10 +702,6 @@ gini/sigla.png>] (DocumentatieLicenta.toc [2])
 \openout2 = `Abstract.aux'.
 
  (Abstract.tex
-("C:\Users\Bianca Lixandru\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-1.de
-f"
-File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-)
 ("C:\Users\Bianca Lixandru\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-0.de
 f"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
@@ -1544,11 +1544,11 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  12412 strings out of 479799
  190867 string characters out of 2864934
- 519120 words of memory out of 3000000
+ 519119 words of memory out of 3000000
  28919 multiletter control sequences out of 15000+200000
  547308 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,13n,72p,1479b,551s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,13n,72p,1479b,574s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Bianca Lixandru\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
 pi600\tcrm1200.pk><C:/Users/Bianca Lixandru/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Bianca Lixandru/AppData/Local/Pr
@@ -1569,7 +1569,7 @@ ixandru/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 fonts/cm/cmsy8.pfb><C:/Users/Bianca Lixandru/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Bianca Lixandru/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb>
-Output written on DocumentatieLicenta.pdf (61 pages, 15797156 bytes).
+Output written on DocumentatieLicenta.pdf (61 pages, 15797198 bytes).
 PDF statistics:
  801 PDF objects out of 1000 (max. 8388607)
  189 named destinations out of 1000 (max. 500000)
