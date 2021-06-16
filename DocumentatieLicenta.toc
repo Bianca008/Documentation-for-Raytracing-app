@@ -28,17 +28,17 @@
 \contentsline {subsection}{\numberline {3.2.3}Selec\c {t}ia razelor}{38}{subsection.3.2.3}%
 \contentsline {section}{\numberline {3.3}Calcul fizic}{40}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Trecerea \^{i}n domeniul frecven\c {t}elor}{40}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Calculul intensit\u {a}\c {t}ilor}{40}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.2}Calculul intensit\u {a}\c {t}ilor}{41}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3.3.3}Calculul presiunilor}{41}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Func\c {t}ia de r\u {a}spuns \^{i}n frecven\c {t}\u {a} \c {s}i func\c {t}ia de r\u {a}spuns la impuls}{41}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.4}Func\c {t}ia de r\u {a}spuns \^{i}n frecven\c {t}\u {a} \c {s}i func\c {t}ia de r\u {a}spuns la impuls}{42}{subsection.3.3.4}%
 \contentsline {subsection}{\numberline {3.3.5}Calculul distan\c {t}elor}{43}{subsection.3.3.5}%
-\contentsline {subsection}{\numberline {3.3.6}Calculul timpilor}{43}{subsection.3.3.6}%
-\contentsline {section}{\numberline {3.4}Post-procesarea}{43}{section.3.4}%
+\contentsline {subsection}{\numberline {3.3.6}Calculul timpilor}{44}{subsection.3.3.6}%
+\contentsline {section}{\numberline {3.4}Post-procesarea}{44}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}Convolu\c {t}ia sunetului}{44}{subsection.3.4.1}%
-\contentsline {chapter}{\numberline {4}Testarea \c {s}i analizarea rezultatelor}{46}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Realizarea experimentelor \IeC {{\textcommabelow s}}i analizarea acestora}{46}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Validarea modelului acustic folosind Simcenter 3D}{53}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Concluzii}{58}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Concluzii generale}{58}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Concluzii personale}{58}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Dezvolt\u {a}ri ulterioare}{59}{section.5.3}%
+\contentsline {chapter}{\numberline {4}Testarea \c {s}i analizarea rezultatelor}{47}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Realizarea experimentelor \IeC {{\textcommabelow s}}i analizarea acestora}{47}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Validarea modelului acustic folosind Simcenter 3D}{54}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Concluzii}{59}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Concluzii generale}{59}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Concluzii personale}{59}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Dezvolt\u {a}ri ulterioare}{60}{section.5.3}%

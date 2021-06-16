@@ -250,6 +250,27 @@ Acum c\u{a} am considerat toate aceste etape mai rămâne doar s\u{a} putem inte
 	
 	Lipsa selecției razelor poate crește timpul computațional de la câteva milisecunde, la câteva ore sau chiar zile, în funcție de dimensiunile camerei și numărul de raze distribuit în încăpere. Complexitatea în timp pentru acest pas va fi liniară, întrucât suntem nevoiți să trecem prin toate razele.
 	
+	\begin{figure}[!htb]%
+		\begin{subfigure}[b]{.49\textwidth}
+			\centering
+			\includegraphics[width=1.01\linewidth]{imagini/multipleRays.png} 
+			\caption{Înainte de aplicarea algoritmului de reducere a razelor}
+			\label{fig:sub-fig2}
+		\end{subfigure}
+		\hfill
+		\begin{subfigure}[b]{.49\textwidth}
+			\centering
+			\includegraphics[width=1\linewidth]{imagini/oneRay.png}
+			\caption{După aplicarea algoritmului de reducere al razelor}
+			\label{fig:sub-second2}
+		\end{subfigure}
+		
+		\caption{Selecția razelor}
+		\label{reduction}
+	\end{figure}
+	
+	În partea stângă a Figurii \ref{reduction} putem observa că de la sursa $S$ pleacă mai multe raze ce urmează căi asemănătoare pentru a ajunge la microfonul $M$. Datorită acestui considerent, dorim să reducem timpul computațional pentru etapele ce urmează prin păstrarea uneia dintre acele raze asemănătoare. Astfel, pentru un exemplu precum cel din Subfigura \ref{fig:sub-fig2} unde avem 4 raze care sunt distincte printr-o constantă, vom avea o singură rază după aplicarea algoritmului de reducere al duplicatelor, precum putem observa în Subfigura \ref{fig:sub-second2}.
+	
 	Astfel, descrierile urm\u{a}toare prezint\u{a} \^{i}ntr-un mod detaliat modelul fizic \c{s}i matematic pentru algoritmul nostru.
 
 \section{Calcul fizic}
